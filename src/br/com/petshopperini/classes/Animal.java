@@ -7,7 +7,7 @@ package br.com.petshopperini.classes;
 			this.especie = especie;
 		}
 		
-		public String getEspecie() {//teste
+		public String getEspecie() {
 			return especie;
 		}
 	}
